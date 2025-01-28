@@ -1,0 +1,5 @@
+# .gitignore
+node_modules/
+dist/  # 如果是构建目录，根据实际情况调整
+.env
+.DS_Store
